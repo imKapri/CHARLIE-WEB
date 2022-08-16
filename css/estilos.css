@@ -356,9 +356,8 @@ body {
 
  /* RESPONSIVE DESIGN */
 
- @media screen and (max-width: 800px){
-
-   :root{
+@media screen and (max-width: 800px){
+  :root{
      --boton-padding: 18px 40px;
    }
 
@@ -512,60 +511,3 @@ body {
     margin-bottom: 20px;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
