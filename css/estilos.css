@@ -31,7 +31,7 @@ body {
 
 .hero{
    height: 100vh;
-   background-image: var(--background), url('../assets/kylovr.jpg');
+   background-image: var(--background), url('../assets/kylovr2.jpg');
    background-repeat: no-repeat;
    background-size: cover;
    background-attachment: fixed;
